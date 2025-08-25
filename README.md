@@ -18,13 +18,18 @@
 
 ###
 
-<h1 align="center">hey there 👋 What's up</h1>
+<h1 align="center">Hey There 👋 What's up</h1>
+
+###
+
+<h1>I'm Rakshan Shetty K a Passionate Developer</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
