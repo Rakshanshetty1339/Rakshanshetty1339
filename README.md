@@ -22,7 +22,7 @@
 
 ###
 
-<h1>I'm Rakshan Shetty K a Passionate Developer</h1>
+<h3 align="center">I'm Rakshan Shetty K a Passionate Developer</h3>
 
 ###
 
